@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liorbaru&show_icons=true&locale=en&layout=compact" alt="liorbaru" /></p>
 
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"  width="400">
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"  width="600">
